@@ -3,7 +3,8 @@ venv/
 emi/
 env/
 *.pyc
-__pycache__/
 *.log
 tmp/
+db.sqlite3
 .DS_Store
+__pycache__/
